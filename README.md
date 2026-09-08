@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🛡️ Detecting Data Leaks Using SQL Injection
 
 A cybersecurity project focused on identifying, simulating, and detecting **SQL Injection (SQLi)** vulnerabilities that lead to unauthorized data exfiltration and leaks.
